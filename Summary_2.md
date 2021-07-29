@@ -50,7 +50,7 @@ What should be the number r of factors? (# of factor is model parameter)
 - **Too small r** would limit the model complexity too much (= **underfitting**). It means a high training error
 - **Too large r** would make the model too complicated (= **overfitting**). It means it will not generalize well for unseen test data, although it fits very well on training data
 
-➡️ Regularization (아래는 regularization term을 붙인 식)
+➡️ Regularization (아래는 regularization term을 붙인 식)<br>
 ![스크린샷 2021-07-13 오후 9 46 37](https://user-images.githubusercontent.com/67621291/125453974-8e005b54-70e0-4b02-a006-fd52e4437f7e.png)<br><br>
 
 ### Modeling Biases and Interactions
